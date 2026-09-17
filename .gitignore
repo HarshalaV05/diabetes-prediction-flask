@@ -1,0 +1,15 @@
+venv/
+myenv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pem
+.env
+
+Basic python.ipynb
+HR dataset Septermber 10&11.ipynb
+Sep 10 session.ipynb
+iris.ipynb
+encoder.joblib
+model.joblib
+scaler.joblib
